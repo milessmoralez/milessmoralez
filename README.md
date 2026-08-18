@@ -56,6 +56,7 @@
 <summary>TITLES</summary>
 <img src="Screenshot 2026-08-17 045520.png">
 <img src="Screenshot 2026-08-17 045532.png">
+  <img width="564" height="49" alt="Image" src="https://github.com/user-attachments/assets/79a6c2dc-d98b-48fc-8c29-8c48a28a56e3" />
 </details>
 
 <p align="right">
