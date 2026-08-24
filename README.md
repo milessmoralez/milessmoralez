@@ -22,7 +22,7 @@
  ${\textsf{\color{#899499}"Miles / Rudo / Blot . They - Them - He - Him"}}$
 </p>
 <p align="left">
- ${\textsf{\color{#6082B6}"Aromantic . Minor . questioning Genderfluid"}}$
+ ${\textsf{\color{#6082B6}"Aromantic . Minor . Trans FTM"}}$
 </p>
 
 <p align="center">
