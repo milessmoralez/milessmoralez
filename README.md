@@ -1,12 +1,24 @@
 <p align="center">
- ${\textsf{\color{#899499}"I don't wanna int with people who have a problem with my online family , if you have a problem with them , then your gonna have to go through me first , dni if your just gonna harass me or them for something so small and unreasonable, if you also got a problem with my online family's friends, at least have the guts to show who you are and say it in text instead of morse code, yeah, im taking to that one person in my online mother's atabook and her gf's ata with that person who stays anonymous, don't be a coward."}}$
-</p>
-
-
-
-<p align="center">
   <img width="900" src="https://github.com/milessmoralez/milessmoralez/blob/e88a9ffd857a7ec1c0a6a326b10af9f1c6b2268e/1000023361.jpg">
 </p>
+
+<p align="center">
+ ${\textsf{\color{#899499}"I don't wanna int with people who have a problem with my online family."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#899499}" if you have a problem with them , then your gonna have to go through me first. "}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#899499}"dni if your just gonna harass me or them for something so small and unreasonable, "}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#899499}"if you also got a problem with my online family's friends, at least have the guts to show who you are and say it in text instead of morse code,"}}$
+</p>
+
+<p align="center">
+ ${\textsf{\color{#899499}"yeah, im taking to that one person in my online mother's atabook and her gf's ata with that person who stays anonymous, don't be a coward."}}$
+</p>
+
 
 <p align="center">
   <img width="300" src="https://github.com/milessmoralez/milessmoralez/blob/e88a9ffd857a7ec1c0a6a326b10af9f1c6b2268e/1000023367.png">
@@ -62,6 +74,7 @@
 <summary>TITLES</summary>
 <img src="Screenshot 2026-08-17 045520.png">
 <img src="Screenshot 2026-08-17 045532.png">
+ <img src="https://github.com/milessmoralez/milessmoralez/blob/19edb6100d2719f13abed8db58d3349dbbcebd0d/Screenshot%202026-08-29%20230451.png">
 <img width="564" height="49" alt="Image" src="https://github.com/user-attachments/assets/79a6c2dc-d98b-48fc-8c29-8c48a28a56e3" />
 </details>
 
