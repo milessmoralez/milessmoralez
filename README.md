@@ -1,4 +1,9 @@
 <p align="center">
+ ${\textsf{\color{#899499}"I don't wanna int with people who have a problem with my online family , if you have a problem with them , then your gonna have to go through me first , dni if your just gonna harass us for something so small and unreasonable."}}$
+</p>
+
+
+<p align="center">
   <img width="900" src="https://github.com/milessmoralez/milessmoralez/blob/e88a9ffd857a7ec1c0a6a326b10af9f1c6b2268e/1000023361.jpg">
 </p>
 
