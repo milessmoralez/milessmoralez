@@ -1,6 +1,7 @@
 <p align="center">
- ${\textsf{\color{#899499}"I don't wanna int with people who have a problem with my online family , if you have a problem with them , then your gonna have to go through me first , dni if your just gonna harass us for something so small and unreasonable."}}$
+ ${\textsf{\color{#899499}"I don't wanna int with people who have a problem with my online family , if you have a problem with them , then your gonna have to go through me first , dni if your just gonna harass me or them for something so small and unreasonable, if you also got a problem with my online family's friends, at least have the guts to show who you are and say it in text instead of morse code, yeah, im taking to that one person in my online mother's atabook and her gf's ata with that person who stays anonymous, don't be a coward."}}$
 </p>
+
 
 
 <p align="center">
