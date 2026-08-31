@@ -106,3 +106,8 @@
 <p align="center">
   <img width="900" src="https://github.com/milessmoralez/milessmoralez/blob/4ab9d4ff2091d778b3f59b334fe618c37bfc000b/1000023370.png">
 </p>
+
+
+<p align="center">
+ ${\textsf{\color{#899499}"feel free to c + h! idm most times, just don't be all weird!"}}$
+</p>
