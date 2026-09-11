@@ -9,7 +9,7 @@
  ${\textsf{\color{#899499}"if im sitting on my own, usually if im any of my blot skins feel free to c + h."}}$
 </p>
 <p align="center">
- ${\textsf{\color{#899499}"but if im my arthur, bassie, will or zanka skin, dni or boop."}}$
+ ${\textsf{\color{#899499}"but if im using any other skin that isnt me, dni or boop unless your my friend."}}$
 </p>
 
 <p align="center">
