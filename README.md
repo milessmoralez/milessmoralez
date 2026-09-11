@@ -1,4 +1,10 @@
 <p align="center">
+  <<img width="607" height="119" alt="Image" src="https://github.com/user-attachments/assets/2558d92e-e561-49b9-9920-588dcd176fae" />>
+</p>
+
+
+
+<p align="center">
   <img width="900" src="https://github.com/milessmoralez/milessmoralez/blob/e88a9ffd857a7ec1c0a6a326b10af9f1c6b2268e/1000023361.jpg">
 </p>
 
