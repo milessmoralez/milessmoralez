@@ -2,7 +2,15 @@
 <img width="882" height="192" alt="Image" src="https://github.com/user-attachments/assets/5c7603e4-e4cc-41f3-9b66-a4f6204de649" />
 </p>
 
-
+<p align="center">
+ ${\textsf{\color{#899499}"feel free to c + h! idm most times, just don't be all weird!"}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#899499}"if im sitting on my own, usually if im any of my blot skins feel free to c + h."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#899499}"but if im my arthur, bassie, will or zanka skin, dni or boop."}}$
+</p>
 
 <p align="center">
   <img width="900" src="https://github.com/milessmoralez/milessmoralez/blob/e88a9ffd857a7ec1c0a6a326b10af9f1c6b2268e/1000023361.jpg">
@@ -114,12 +122,4 @@
 </p>
 
 
-<p align="center">
- ${\textsf{\color{#899499}"feel free to c + h! idm most times, just don't be all weird!"}}$
-</p>
-<p align="center">
- ${\textsf{\color{#899499}"if im sitting on my own, usually if im any of my blot skins."}}$
-</p>
-<p align="center">
- ${\textsf{\color{#899499}"feel free to c + h, but if im my arthur, bassie, will or zanka skins, dni or boop."}}$
-</p>
+
