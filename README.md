@@ -117,3 +117,9 @@
 <p align="center">
  ${\textsf{\color{#899499}"feel free to c + h! idm most times, just don't be all weird!"}}$
 </p>
+<p align="center">
+ ${\textsf{\color{#899499}"if im sitting on my own, usually if im any of my blot skins."}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#899499}"feel free to c + h, but if im my arthur, bassie, will or zanka skins, dni or boop."}}$
+</p>
