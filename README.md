@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#899499}"yeah, im taking to that one person in my online mother's atabook and her gf's ata with that person who stays anonymous, don't be a coward."}}$
+ ${\textsf{\color{#899499}"yeah, im taking to that one person in my online mother's atabook, don't be a coward."}}$
 </p>
 
 
