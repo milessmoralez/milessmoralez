@@ -17,22 +17,12 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#899499}"I don't wanna int with people who have a problem with my online family."}}$
-</p>
-<p align="center">
- ${\textsf{\color{#899499}" if you have a problem with them , then your gonna have to go through me first. "}}$
-</p>
-<p align="center">
- ${\textsf{\color{#899499}"dni if your just gonna harass me or them for something so small and unreasonable, "}}$
-</p>
-<p align="center">
- ${\textsf{\color{#899499}"if you also got a problem with my online family's friends, at least have the guts to show who you are and say it in text instead of morse code,"}}$
+ ${\textsf{\color{#899499}"I don't wanna int with people who have a problem with my online family"}}$
 </p>
 
 <p align="center">
- ${\textsf{\color{#899499}"yeah, im taking to that one person in my online mother's atabook, don't be a coward."}}$
+ ${\textsf{\color{#899499}"If you start an argument, your blocked immediately"}}$
 </p>
-
 
 <p align="center">
   <img width="300" src="https://github.com/milessmoralez/milessmoralez/blob/e88a9ffd857a7ec1c0a6a326b10af9f1c6b2268e/1000023367.png">
