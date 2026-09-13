@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#899499}"If you start an argument, your blocked immediately"}}$
+ ${\textsf{\color{#899499}"If you start an argument for no reason, your blocked immediately."}}$
 </p>
 
 <p align="center">
