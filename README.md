@@ -5,12 +5,12 @@
 <p align="center">
  ${\textsf{\color{#899499}"feel free to c + h! idm most times, just don't be all weird!"}}$
 </p>
+
+
 <p align="center">
- ${\textsf{\color{#899499}"if im sitting on my own, usually if im any of my blot skins feel free to c + h."}}$
+ ${\textsf{\color{#899499}"deleted all of my skins, so mostly using bakugo or deku"}}$
 </p>
-<p align="center">
- ${\textsf{\color{#899499}"but if im using any other skin that isnt me, dni or boop unless your my friend."}}$
-</p>
+
 
 <p align="center">
 <img width="735" height="492" alt="Image" src="https://github.com/user-attachments/assets/4303ae86-29ac-4253-9004-6a12eec7d000" />
