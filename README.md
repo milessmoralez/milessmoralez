@@ -8,7 +8,7 @@
 
 
 <p align="center">
- ${\textsf{\color{#899499}"deleted all of my skins, so mostly using bakugo or deku"}}$
+ ${\textsf{\color{#899499}"im a little shy at first, so i wont reply back immediately..!"}}$
 </p>
 
 
