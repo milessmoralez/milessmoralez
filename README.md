@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#899499}"feel free to c + h! idm most times, just don't be all weird!"}}$
+ ${\textsf{\color{#899499}"feel free to w2 c + h! idm most times, just don't be all weird!"}}$
 </p>
 
 
