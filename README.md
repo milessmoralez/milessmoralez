@@ -41,7 +41,7 @@
 </p>
 
 <p align="left">
- ${\textsf{\color{#899499}"Miles / Rudo / Blot . They - Them - He - Him"}}$
+ ${\textsf{\color{#899499}"Miles / Durin / Blot . They - Them - He - Him"}}$
 </p>
 <p align="left">
  ${\textsf{\color{#6082B6}"Aromantic . Minor . Trans FTM"}}$
