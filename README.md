@@ -3,13 +3,9 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#899499}"feel free to w2 c + h! idm most times, just don't be all weird!"}}$
+ ${\textsf{\color{#899499}"lowkey forgot about this github geeulp"}}$
 </p>
 
-
-<p align="center">
- ${\textsf{\color{#899499}"im a little shy at first, so i wont reply back immediately..!"}}$
-</p>
 
 
 <p align="center">
