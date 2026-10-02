@@ -21,7 +21,7 @@
  ${\textsf{\color{#bf2520}𝐜𝐚𝐥𝐥 𝐦𝐞 𝐌𝐚𝐫𝐬𝐡 𝐨𝐫 𝐒𝐭𝐚𝐧𝐥𝐞𝐲 .   𝐆𝐚𝐲 , 𝐚𝐧𝐲 𝐩𝐫𝐨𝐧𝐨𝐮𝐧𝐬 , 𝐈 𝐥𝐨𝐯𝐞 𝐜𝐫𝐚𝐢𝐠 .}}$
 </p>
 <p align="center">
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/9cac71eb-c62e-4ff0-a5dd-5ba875f86cbc" />
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/f53288d9-67a4-4e77-bef2-d0b2d9a71477" />
 </p>
 <p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9659e33e-d7c9-4663-a331-ae2772a98879" />
