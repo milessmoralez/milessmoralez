@@ -50,5 +50,5 @@ ${\textsf{\color{#323a60}Racist, Sexist, Ableist, Discrimination, etc.}}$
 ${\textsf{\color{#d69924}part of the South Park fandom.}}$
 </p>
 <p align="center">
-<img width="100" alt="298433912828188917-removebg-preview" src="https://github.com/user-attachments/assets/ff00d915-c080-487f-8be6-254c7102d405" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4c79e797-c7c1-46f0-928f-8552372cb08c" />
 </p>
