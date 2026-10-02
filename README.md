@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/dcad7ca2-5769-4e94-ad6b-4f4459a07aa7" />
+<img width="356" alt="download (12)" src="https://github.com/user-attachments/assets/fc8f7525-89d2-4039-9c05-b24b8731cd98" />
 </p>
 
 <p align="center">
-<img width="150" alt="image" src="https://github.com/user-attachments/assets/d33cc267-6146-4dfd-a92d-27357e0f87a8" />
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/d33cc267-6146-4dfd-a92d-27357e0f87a8"
 </p>
 
 <p align="center">
