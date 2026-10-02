@@ -26,6 +26,15 @@
 <p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9659e33e-d7c9-4663-a331-ae2772a98879" />
 </p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=D69924&multiline=true&width=435&lines=%22They're+gonna+clean+up+your+looks+With+all+the+lies;+in+the+books.+To+make+a+citizen+out+of+you.%22" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<img width="100" alt="298433912828188917-removebg-preview" src="https://github.com/user-attachments/assets/ff00d915-c080-487f-8be6-254c7102d405" />
+</p>
+
 <p align="center">
  ${\textsf{\color{#323a60}BASIC DNI CRITERIA.}}$
 </p>
