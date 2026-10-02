@@ -2,8 +2,9 @@
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/4c79e797-c7c1-46f0-928f-8552372cb08c" />
 </p>
 
-
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2D427E&multiline=true&width=435&lines=%22Come+as+you+are%2C+as+you+were+As+I+want+you+to+be;As+a+friend%2C+as+a+friend+.+As+an+old+enemy.%22" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/dcad7ca2-5769-4e94-ad6b-4f4459a07aa7" />
