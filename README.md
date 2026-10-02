@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+<img width="150" alt="image" src="https://github.com/user-attachments/assets/d33cc267-6146-4dfd-a92d-27357e0f87a8" />
+</p>
+
+<p align="center">
  ${\textsf{\color{#2a2d36}Stan Marsh alter.}}$
 </p>
 <p align="center">
