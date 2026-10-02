@@ -22,3 +22,17 @@
 <p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9659e33e-d7c9-4663-a331-ae2772a98879" />
 </p>
+<p align="center">
+ ${\textsf{\color{#323a60}BASIC DNI CRITERIA.}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#323a60}𝐝𝐧𝐢 𝐮𝐧𝐝𝐞𝐫 𝟏𝟑+ 𝐚𝐧𝐝 𝐢𝐰𝐞𝐜 𝟐𝟏+}}$
+${\textsf{\color{#323a60}Racist, Sexist, Ableist, Discrimination, etc.}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#d69924}BASIC INT CRITERIA.}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#d69924}friends of friends may int.}}$
+${\textsf{\color{#d69924}part of the South Park fandom.}}$
+</p>
