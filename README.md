@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#2a2d36}Stan Marsh alter.}}$
+ ${\textsf{\color{#55301d}Stan Marsh alter.}}$
 </p>
 <p align="center">
  ${\textsf{\color{#bf2520}𝐜𝐚𝐥𝐥 𝐦𝐞 𝐌𝐚𝐫𝐬𝐡 𝐨𝐫 𝐒𝐭𝐚𝐧𝐥𝐞𝐲 .   𝐆𝐚𝐲 , 𝐚𝐧𝐲 𝐩𝐫𝐨𝐧𝐨𝐮𝐧𝐬 , 𝐈 𝐥𝐨𝐯𝐞 𝐜𝐫𝐚𝐢𝐠 .}}$
