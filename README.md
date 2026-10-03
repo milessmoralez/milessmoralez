@@ -10,6 +10,14 @@
 <img width="356" alt="download (12)" src="https://github.com/user-attachments/assets/fc8f7525-89d2-4039-9c05-b24b8731cd98" />
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2keqe5bv5274eygpiwxjm2bzu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=334e5c&interchange=false&profanity=false&hide_remaster=false&bar_color=596091&bar_color_cover=false">
+  </a>
+</p>
+
+
 <p align="center">
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/d33cc267-6146-4dfd-a92d-27357e0f87a8"
 </p>
