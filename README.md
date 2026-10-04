@@ -60,3 +60,9 @@ ${\textsf{\color{#d69924}part of the South Park fandom.}}$
 <p align="center">
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/4c79e797-c7c1-46f0-928f-8552372cb08c" />
 </p>
+
+<p align="center">
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/e4d42aaa-9277-46f4-bf35-3547ae54692b" />
+<img width="100" alt="tumblr_6c515e0d2cad9ae324532ac5a1d8e364_14115d15_100" src="https://github.com/user-attachments/assets/71030135-42c8-4e84-8675-f6e2ae83e099" />
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/32513197-d406-4cef-8411-bb862c0d357c" />
+</p>
